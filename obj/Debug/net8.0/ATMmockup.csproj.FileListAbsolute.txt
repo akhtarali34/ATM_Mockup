@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\bin\Debug\net8.0\ATMmockup.exe
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\bin\Debug\net8.0\ATMmockup.deps.json
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\bin\Debug\net8.0\ATMmockup.runtimeconfig.json
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\bin\Debug\net8.0\ATMmockup.dll
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\bin\Debug\net8.0\ATMmockup.pdb
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\obj\Debug\net8.0\ATMmockup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\obj\Debug\net8.0\ATMmockup.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\obj\Debug\net8.0\ATMmockup.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\obj\Debug\net8.0\ATMmockup.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\obj\Debug\net8.0\ATMmockup.dll
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\obj\Debug\net8.0\refint\ATMmockup.dll
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\obj\Debug\net8.0\ATMmockup.pdb
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\obj\Debug\net8.0\ATMmockup.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Ahmad\ATMmockup\obj\Debug\net8.0\ref\ATMmockup.dll
